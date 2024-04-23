@@ -22,4 +22,4 @@
   <li>"The Filter Bubble" by Eli Pariser</li>
   <li>"The Innovators" by Walter Isaacson</li>
 </ul>
-<p>Additionally, I enjoy problem-solving on <a href="https://leetcode.com/MelJWise/">LeetCode</a> to refine my programming skill.</p>
+<p>Additionally, I enjoy problem-solving on <a href="https://leetcode.com/MelJWise/">LeetCode</a> to refine my programming skills.</p>
