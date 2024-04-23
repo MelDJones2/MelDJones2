@@ -1,5 +1,5 @@
 <h1>Hi, I'm Melvin Jones!</h1>
-    <p>I'm a Computer Science student at the University of Central Oklahoma with a passion for programming and cybersecurity.</p>
+    <p>I am a Computer Science student at the University of Central Oklahoma with a passion for programming and cybersecurity.</p>
 <h2>👨‍💻 Software Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
@@ -14,7 +14,7 @@
 <p><a href="https://www.linkedin.com/in/melvin-jones-24b011247">LinkedIn</a></p>
 
 <h2>💬 About Me:</h2>
-<p>As a student, I am deeply passionate about software development, especially in cybersecurity and neural networks. Beyond coursework, I avidly explore technology literature to stay updated on current advancements in my field of study.</p>
+<p>I have a strong interest in software development as a student, particularly in the fields of cybersecurity and neural networks. I read a lot of technology literature out of school to keep up with developments in the topics I study.</p>
 <p><b>My favorite books about Computer Science include:</b></p>
 <ul>
   <li>"The Coming Wave" by Mustafa Suleyman</li>
